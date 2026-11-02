@@ -6,20 +6,18 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI/SC 🎓 e entusiasta de te
 
 ### 💻 Sobre mim
 
-- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI/SC**[cite: 5]
-- 🚀 Focado em lógica de programação, desenvolvimento web e banco de dados[cite: 5]
-- 🛠️ Desenvolvendo projetos práticos com **Git**, **GitHub** e **IntelliJ IDEA**[cite: 4, 5]
-- 📍 Florianópolis, Santa Catarina - Brasil[cite: 3]
+- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI/SC**
+- 🚀 Focado em lógica de programação, desenvolvimento web e banco de dados
+- 🛠️ Desenvolvendo projetos práticos com **Git** e **GitHub**
+- 📍 Florianópolis, Santa Catarina - Brasil
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <a href="https://github.com/lucca-felicio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucca-felicio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-felicio&layout=compact&theme=dracula" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucca-felicio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" alt="Estatísticas no GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-felicio&layout=compact&theme=dracula" height="170" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
@@ -31,21 +29,19 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI/SC 🎓 e entusiasta de te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
 </div>
 
 <br />
 
 #### 🌱 Tecnologias que estou aprendendo / praticando:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript (Em aprendizado)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5 (Em aprendizado)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3 (Em aprendizado)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" title="Banco de Dados SQL (Em aprendizado)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL / pgAdmin 4" title="PostgreSQL / pgAdmin 4" />
 </div>
 
 ---
