@@ -7,8 +7,8 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI/SC 🎓 e entusiasta de te
 ### 💻 Sobre mim
 
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI/SC**
-- 🚀 Focado em lógica de programação, desenvolvimento web e banco de dados
-- 🛠️ Desenvolvendo projetos práticos com **Git** e **GitHub**
+- 🚀 Focado em banco de dados e desenvolvimento front-end e back-end
+- 🛠️ Desenvolvendo projetos práticos 
 - 📍 Florianópolis, Santa Catarina - Brasil
 
 ---
@@ -20,8 +20,6 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI/SC 🎓 e entusiasta de te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" title="Express.js" />
 </div>
 
 <br />
@@ -31,6 +29,8 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI/SC 🎓 e entusiasta de te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" title="Express.js" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
   &nbsp;
