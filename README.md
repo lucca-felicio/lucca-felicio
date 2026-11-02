@@ -13,15 +13,6 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI/SC 🎓 e entusiasta de te
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucca-felicio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" alt="Estatísticas no GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-felicio&layout=compact&theme=dracula" height="170" alt="Linguagens Mais Usadas" />
-</div>
-
----
-
 ### 🛠️ Ferramentas & 🌱 O que estou aprendendo
 
 #### 🛠️ Ferramentas no dia a dia:
@@ -29,6 +20,8 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI/SC 🎓 e entusiasta de te
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" title="Express.js" />
 </div>
 
 <br />
@@ -36,6 +29,8 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI/SC 🎓 e entusiasta de te
 #### 🌱 Tecnologias que estou aprendendo / praticando:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5" />
   &nbsp;
