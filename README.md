@@ -1,4 +1,4 @@
-# Olá! Eu sou o Lucca Matheus 👋
+# Olá! Eu sou o Lucca Felício 👋
 
 Estudante de **Desenvolvimento de Sistemas** no SENAI/SC 🎓 e entusiasta de tecnologia e desenvolvimento de software.
 
